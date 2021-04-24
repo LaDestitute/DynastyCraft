@@ -1,0 +1,4 @@
+com/thenolle/dynastycraft/core/init/ItemInit.java
+ com.thenolle.dynastycraft.core.init.ItemInit
+com/thenolle/dynastycraft/DynastyCraft.java
+ com.thenolle.dynastycraft.DynastyCraft

@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "All rights reserved"
+
+[[mods]]
+modId = "dynastycraft"
+version = "0.0.1"
+displayName = "Dynasty Coins"
+displayURL = "http://TheNolle.com/"
+logoFile = "assets/logo.png"
+authors = "TheNolle (aka Nolly)"
+description = '''
+Add coins to Minecraft !
+'''
