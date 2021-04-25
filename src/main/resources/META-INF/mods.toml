@@ -1,14 +1,15 @@
 modLoader = "javafml"
+# We should remember to keep the loader version updated here, it should match the first number in Forge MDK releases
 loaderVersion = "[36,)"
-license = "All rights reserved"
-
+issueTrackerURL = "https://gitlab.com/LaDestitute/forge-1.16-tutorials/-/issues"
+# We must have a license field put here otherwise Minecraft will tell us we need one and refuse to launch
+license="All rights reserved."
 [[mods]]
 modId = "dynastycraft"
 version = "0.0.1"
 displayName = "Dynasty Coins"
-displayURL = "http://TheNolle.com/"
-logoFile = "assets/logo.png"
+# We should also have an icon file, Forge searches for under main/resources/icon.png
+logoFile="icon.png"
+displayURL = "http://thenolle.com/"
 authors = "TheNolle (aka Nolly)"
-description = '''
-Add coins to Minecraft !
-'''
+description = '''Add coins to Minecraft!'''
